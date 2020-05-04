@@ -34,7 +34,7 @@
         Documentation : https://github.com/Orlandster/vue-typed-js/
       -->
       <!-- prettier-ignore -->
-Made From Heart by @jenengkuglemboh<vue-typed-js
+Made From Heart by @jenengkuglemboh <vue-typed-js
         class="vue-typed"
         :showCursor="false"
         :loop="true"
