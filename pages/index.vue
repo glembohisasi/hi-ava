@@ -35,6 +35,7 @@
         Documentation : https://github.com/Orlandster/vue-typed-js/
       -->
       <!-- prettier-ignore -->
+      Build By @jenengkuglemboh
       <vue-typed-js
         class="vue-typed"
         :showCursor="false"
