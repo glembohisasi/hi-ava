@@ -1,3 +1,4 @@
+
 <template>
   <!-- Background -->
   <div :class="darkMode() ? 'darkBG' : 'lightBG'">
@@ -34,7 +35,7 @@
         Documentation : https://github.com/Orlandster/vue-typed-js/
       -->
       <!-- prettier-ignore -->
-<vue-typed-js
+      <vue-typed-js
         class="vue-typed"
         :showCursor="false"
         :loop="true"
