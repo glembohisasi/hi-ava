@@ -34,11 +34,11 @@
         Documentation : https://github.com/Orlandster/vue-typed-js/
       -->
       <!-- prettier-ignore -->
-      <vue-typed-js
+'I always wanted to tell you... ^2500',      <vue-typed-js
         class="vue-typed"
         :showCursor="false"
         :loop="true"
-        :strings="[greetings() + ', ' + nicknames + '! ^5000', 'I always wanted to tell you... ^2500', 'Nevermind! >///<']"
+        :strings="[greetings() + ', ' + nicknames + '! ^5000', 'I always wanted to tell you... ^2500','Terimakasih telah hadir di hidupku ^2500', 'Maaf jika aku yang hanya seorang Mikroorganisme sering membuatmu terganggu...^2500', 'Intinya aku ingin Mengatakan ^2500', 'I Love You...']"
         :backDelay="500"
         :typeSpeed="100"
         :backSpeed="20"
