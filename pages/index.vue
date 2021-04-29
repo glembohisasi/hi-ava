@@ -35,12 +35,12 @@
         Documentation : https://github.com/Orlandster/vue-typed-js/
       -->
       <!-- prettier-ignore -->
-      Build By @jenengkuglemboh
+      Sumpah demi apapun ini gua gabut doang, btw follow ig gua ya @jenengkuglemboh
       <vue-typed-js
         class="vue-typed"
         :showCursor="false"
         :loop="true"
-        :strings="[greetings() + ', ' + nicknames + '! ^5000', 'I always wanted to tell you... ^2500','Terimakasih telah hadir di hidupku ^2500', 'Maaf jika aku yang hanya seorang Mikroorganisme sering membuatmu terganggu...^2500', 'Intinya aku ingin Mengatakan ^2500', 'I Love You...']"
+        :strings="[greetings() + ', ' + nicknames + '! ^5000', 'Haii, ga kerasa ya, kita udah menghadapi ini 2 tahun ^2500','Gimana? Masih semangat kan? ^2500', 'Yuk bisa yuk, aku tau kamu pasti bisa ^2500', 'Tetap semangat ya ^2500','Janga lupa jaga mood juga ya ^2500', 'Tetap semangat :)']"
         :backDelay="500"
         :typeSpeed="100"
         :backSpeed="20"
